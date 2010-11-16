@@ -23,7 +23,6 @@ spec = Gem::Specification.new do |s|
   s.homepage = HOMEPAGE
 
   s.add_dependency "json", ">= 1.4.4", "<= 1.4.6"
-  s.add_dependency "extlib"
   s.add_dependency "systemu"
   s.add_dependency "mixlib-cli"
   s.add_dependency "mixlib-config"

@@ -16,7 +16,7 @@
 # limitations under the License.
 #
 
-require 'extlib'
+require 'mash'
 require 'ohai/log'
 require 'ohai/mixin/from_file'
 require 'ohai/mixin/command'
